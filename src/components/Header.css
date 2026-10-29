@@ -1,0 +1,18 @@
+.header {
+  background-color: #1e1e1e;
+  padding: 15px;
+  border-bottom: 1px solid #333;
+}
+.logo {
+  color: #fff;
+}
+.header a {
+  color: #e0e0e0;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.header a:hover {
+  color: #28a745;
+}
